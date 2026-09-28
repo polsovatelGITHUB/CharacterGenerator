@@ -1,0 +1,16 @@
+# Результаты сборки проекта
+[Bb]in/
+[Oo]bj/
+
+# Файлы настроек IDE (Visual Studio / VS Code)
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Логи и кэш
+*.log
+app_errors.log
+
+# Локальная база данных
+characters_db.json
